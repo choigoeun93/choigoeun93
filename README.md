@@ -3,7 +3,7 @@
 - interested in Data Analysis Technology
 
 ## 🎓 Education
-- B.A. in law, Sookmyung Women's University (2012.03 ~ 2020.02)
+- B.A. in Law, Sookmyung Women's University (2012.03 ~ 2020.02)
 - M.S. in Digital Analytics, Yonsei University (2021.03 ~ 2023.02)
 
 ## 💼 Career 
