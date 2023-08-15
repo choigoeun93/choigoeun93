@@ -1,16 +1,32 @@
-### Hi there 👋
+## 👋 Hi there, I'm BestSilver 
+- I'm working in South Korea
+- interested in Data Analysis Technology
 
-<!--
-**choigoeun93/choigoeun93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- B.A. in law, Sookmyung Women's University (2012.03 ~ 2020.02)
+- M.S. in Digital Analytics, Yonsei University (2021.03 ~ 2023.02)
 
-Here are some ideas to get you started:
+## 💼 Career 
+- IT Engineer at MBC (2022.12 ~ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stacks 
+- **pro**
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+
+- **experienced**
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![scala](https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=#276DC3"/> 
+
+
+## 🏆 Awards
+|Competition|Prize|Date|
+|------|---|---|
+|HSAd Data Driven Marketing Competition|1st Prize|July , 2022|
+|LG E-Commerce 산학협력 프로그램 |1st Prize|December , 2021|
+
+## 🤔 How to reach me? 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choigoeun93@gmail.com)](choigoeun93@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bestsilver0225/)
