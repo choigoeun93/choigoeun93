@@ -28,5 +28,5 @@
 |LG E-Commerce 산학협력 프로그램 |1st Prize|December , 2021|
 
 ## 🤔 How to reach me? 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choigoeun93@gmail.com)](choigoeun93@gmail.com)
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bestsilver0225/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bestsilver0225/)](https://www.linkedin.com/in/bestsilver0225/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choigoeun93@gmail.com)](mailto:choigoeun93@gmail.com)
