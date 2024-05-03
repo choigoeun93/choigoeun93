@@ -22,7 +22,7 @@
 
 
 ## 🏆 Awards
-|Competition|Prize|Date|
+|-|Prize|Date|
 |------|---|---|
 |HSAd Data Driven Marketing Competition|1st Prize|July , 2022|
 |LG E-Commerce 산학협력 프로그램 |1st Prize|December , 2021|
