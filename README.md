@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm BestSilver 
 - I'm working in South Korea
 - interested in Data Analysis Technology
+- Writing : [Exploring the relationship between YouTube video characteristics and a viewer’s mental health traits among young adults](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1364930/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Psychiatry&id=1364930)
+
 
 ## 🎓 Education
 - B.A. in Law, Sookmyung Women's University (2012.03 ~ 2020.02)
