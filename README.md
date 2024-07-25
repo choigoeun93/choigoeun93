@@ -24,9 +24,10 @@
 ## 🏆 Awards
 |-|Prize|Date|
 |------|---|---|
+|MBC 인프라본부 |격려상|April , 2024|
 |HSAd Data Driven Marketing Competition|1st Prize|July , 2022|
 |LG E-Commerce 산학협력 프로그램 |1st Prize|December , 2021|
-|MBC 인프라본부 |격려상|April , 2024|
+
 
 ## 🤔 How to reach me? 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bestsilver0225/)](https://www.linkedin.com/in/bestsilver0225/)
